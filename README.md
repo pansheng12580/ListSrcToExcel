@@ -2,15 +2,15 @@
    We can set any project path you wanted and output the structure of the project to Excel by code.
    We can save time to do other things which are more important,it is effective.
    Style of Excel which is output by code is like:
-             src
-               comparator
-                      MyComparator.java
-                      MyString.java 
-                main
-                      ListSrcToExcel.java
-                util
-                      Config.java
-                      Util.java
+________________src
+________________comparator
+______________________MyComparator.java
+______________________MyString.java
+________________main
+______________________ListSrcToExcel.java
+________________util
+______________________Config.java
+______________________Util.java
  
  
  Author:pansheng
