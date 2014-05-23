@@ -3,14 +3,14 @@
  *  We can save time to do other things which are more important,it is effective.
  *  Style of Excel which is output by code is like:
  *            src
- *				 comparator
- *  			 	   MyComparator.java
- * 				 	   MyString.java 
- * 				 main
- * 				       ListSrcToExcel.java
- * 				 util
- * 				       Config.java
- * 				       Util.java
+ *               comparator
+ *                     MyComparator.java
+ *                     MyString.java 
+ *               main
+ *                     ListSrcToExcel.java
+ *               util
+ *                     Config.java
+ *                     Util.java
  */
  
  Author:pansheng
@@ -22,6 +22,3 @@
      3.set sheet name and content path correctly in Config.java
    
  if you have any questions in code,contact me by Email(pansheng12580@gmail.com),thanks.
- 
-   
- 
