@@ -14,7 +14,7 @@ ______________________Util.java_________________________________________________
  
  
  Author:pansheng
- Time:20140523 10:39
+ Time:20140523
  Description:Read and Write Excel by Java code.
  Steps:
      1.set your project path which you want in Config.java
