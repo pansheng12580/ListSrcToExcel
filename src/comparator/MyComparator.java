@@ -3,7 +3,7 @@ package comparator;
 import java.util.Comparator;
 
 /**
- * 重写比较方法
+ * 閲嶅啓姣旇緝鏂规硶
  * @author pansheng
  * @time 20140523
  */
